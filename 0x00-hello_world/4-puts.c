@@ -4,11 +4,11 @@
 
 /**
  *
- *  *  main - Prints String use puts instead of printf
+ *  *  main - Prints String
  *
  *   *  Description: "\"Programming is like building a multilingual puzzle"
  *
- *  *  Programme  Return: 0
+ *    *  Return: 0
  *
  *     */
 
